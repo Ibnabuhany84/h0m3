@@ -4,12 +4,10 @@
 I am a Network Engineer with a profound interest in anything related to Cybersecurity and a dedication to solving complex problems.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
 My journey in Information Technology has led me to develop a passion for cybersecurity, and I’m now enthusiastic about transitioning into this dynamic field.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
