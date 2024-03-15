@@ -28,9 +28,9 @@ My journey in Information Technology has led me to develop a passion for cyberse
     <img src="https://img.shields.io/badge/-CLI-1679A7?&style=for-the-badge&logo=Aruba&logoColor=white" />
 </div>
 
-### Endpoint
+### Cloud
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Azure-0089D6?&style=for-the-badge&logo=MicrosoftAzure&logoColor=white" />
 </div>
 
 ### SIEM
